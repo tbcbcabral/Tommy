@@ -5,7 +5,8 @@ share_link: https://share.note.sx/41ofqntr#7/pjPdeeXdU/LPn7zPsMpvTABBNuq361OsZie
 share_updated: 2025-04-05T16:48:00+01:00
 share: true
 ---
-# Datas
+# Madeira Pai e Mãe 2025
+## Datas
 
 28/04/2025 20h (Segunda) - 03/05/2025 21h (Sábado)
 
@@ -45,8 +46,9 @@ share: true
 ## Dia 6 03/05
 
 
+## Mapa
 
 ```mapview
-{"name":"Default","mapZoom":12,"centerLat":32.8370555138753,"centerLng":-17.099882347257548,"query":"path:\"1_Personal/1_Travel/4_Madeira2025_paiMae.md\"","chosenMapSource":0,"autoFit":false,"lock":false,"showLinks":false,"linkColor":"red","markerLabels":"off","embeddedHeight":600}
+{"name":"Default","mapZoom":12,"centerLat":32.71855479966606,"centerLng":-17.295913696289066,"query":"path:\"1_Personal/1_Travel/4_Madeira2025_paiMae.md\"","chosenMapSource":0,"autoFit":false,"lock":false,"showLinks":false,"linkColor":"red","markerLabels":"off","embeddedHeight":600}
 ```
 
