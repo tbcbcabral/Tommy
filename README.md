@@ -4,6 +4,6 @@ title: Tommy
 permalink: /
 ---
 
-# Tommy's Obsidian repository
+# Tommy
 
 My shared Obsidian notes are stored here.
