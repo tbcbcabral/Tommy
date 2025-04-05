@@ -1,1 +1,7 @@
 theme: cayman
+header_pages:
+  - index.md
+  - 2_Neve 2025.md
+  - 4_Madeira2025_paiMae.md
+cayman:
+  include_css: ["/assets/css/custom.css"]
