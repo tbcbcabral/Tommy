@@ -4,8 +4,6 @@ locations: ""
 share_link: https://share.note.sx/41ofqntr#7/pjPdeeXdU/LPn7zPsMpvTABBNuq361OsZieF8pvoA
 share_updated: 2025-04-05T16:48:00+01:00
 share: true
-title: Madeira 2025
-permalink: /
 ---
 # Madeira Pai e Mãe 2025
 ## Datas
