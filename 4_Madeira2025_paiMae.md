@@ -1,6 +1,6 @@
 ---
-location: 32.751750099999995,-16.98174865726062
 share: true
+locations: ""
 ---
 # Madeira Pai e Mãe 2025
 ## Datas
@@ -12,6 +12,9 @@ share: true
 - Praia [Fajã dos Padres](geo:32.6567461,-17.0255486) tag:praia
 - [Praia dos Anjos](geo:32.691334, -17.120748) tag:praia
 - Uma levada bonita - sugestões?
+	- [Levada do moinho](geo:32.83024524945866,-17.207208584453387) tag:caminhada
+	- [levada dos tornos](geo:32.79208116873367,-16.959693216646) tag:caminhada
+	- 
 
 # Dias
 
@@ -34,8 +37,9 @@ share: true
 - [Funchal](geo:32.64965,-16.908679) tag:passear - passear à noite
 ## Dia 4 - 01/05
 
-- [Pico do Areeiro](geo:32.7355733,-16.9286501) até ao [Pico Ruivo](geo:32.7603786,-16.9437638) (cuidado, é longo e difícil, fazer com tempo e evitar hora do sol forte. Prever pelo menos 5 ou 6 horas)
+- [Pico do Areeiro](geo:32.7355733,-16.9286501) tag:caminahda até ao [Pico Ruivo](geo:32.7603786,-16.9437638) tag:caminahda (cuidado, é longo e difícil, fazer com tempo e evitar hora do sol forte. Prever pelo menos 5 ou 6 horas)
 -  [Pico Ruivo](geo:32.7603786,-16.9437638) tag:caminhada até à [Encumeada ](geo:32.74409635,-17.0184637) tag:caminhada (por exemplo se ficarem a dormir no Pico Ruivo)
+- Sopa de tomate no [Poiso](geo:32.7113357,-16.8923969)
 
 ## Dia 5 - 02/05
 
@@ -43,7 +47,6 @@ share: true
 - [Jardim do mar](geo:32.7375582,-17.2111304) tag:passear
 - [Praia da Calheta](geo:32.7185635,-17.174060227941702) tag:praia
 - [Ponta do Sol](geo:32.681068,-17.104073) tag:passear - Estalagem (ver quando há concerto ao vivo e jantar lá, bom mas um bocado caro. Se jantarem, têm direito a assistir ao concerto, acho eu)
-
 ## Dia 6 - 03/05
 
 - Visitar o [Cabo Girão ](geo:32.6564403,-17.004440570955882) tag:vista - boa vista
@@ -54,6 +57,6 @@ share: true
 ## Mapa
 
 ```mapview
-{"name":"Default","mapZoom":12,"centerLat":32.71855479966606,"centerLng":-17.295913696289066,"query":"path:\"1_Personal/1_Travel/4_Madeira2025_paiMae.md\"","chosenMapSource":0,"autoFit":false,"lock":false,"showLinks":false,"linkColor":"red","markerLabels":"off","embeddedHeight":600}
+{"name":"Default","mapZoom":11,"centerLat":32.75205507166734,"centerLng":-16.98280911217608,"query":"path:\"1_Personal/1_Travel/4_Madeira2025_paiMae.md\"","chosenMapSource":0,"autoFit":false,"lock":false,"showLinks":false,"linkColor":"red","markerLabels":"off","embeddedHeight":600}
 ```
 
