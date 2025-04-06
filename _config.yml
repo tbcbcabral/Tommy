@@ -1,3 +1,3 @@
-theme: minima
-title: Your Site Title
+remote_theme: pages-themes/cayman@v0.2.0
+title: Tommy's notes
 description: A brief description of your site.
