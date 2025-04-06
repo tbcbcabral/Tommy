@@ -12,6 +12,7 @@ share: true
 - Praia [Fajã dos Padres](geo:32.6567461,-17.0255486) tag:praia
 - [Praia dos Anjos](geo:32.691334, -17.120748) tag:praia
 - Uma levada bonita - sugestões?
+
 # Dias
 
 ## Dia 1 - 28/04
